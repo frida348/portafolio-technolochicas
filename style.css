@@ -3,6 +3,60 @@
     background-color: transparent;
 }
 
-main{
+body{
     background-color: black;
+}
+
+.proyecto{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#proyecto1{
+    background-image: url('assets/progfuncional.png');
+}
+
+#proyecto2{
+    background-image: url('assets/capgoogle.png');
+}
+
+#proyecto3{
+    background-image: url('assets/progfuncional.png');
+}
+
+.opacidad {
+    background: rgba(183, 182, 182, 0.4);
+  }
+
+.sombra{
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.icon-design {
+    width: 32px;
+    height: 32px;
+    font-size: 32px;
+    color: #008000;
+}
+
+.img-carrusel {
+    border-radius: 50%;
+    width: 350px; /* Ajusta el tamaño según sea necesario */
+    height: 350px; /* Ajusta el tamaño según sea necesario */
+    object-fit: cover; /* Asegura que la imagen se ajuste bien dentro del círculo */
+    border: 3px solid #008000;
+    margin: 1.5em;
+}
+
+#contacto{
+    color: #C5e1a5;
+}
+
+.icon-footer {
+    color: #008000;
+}
+
+#testimonios{
+    margin-bottom: 10px;
 }
