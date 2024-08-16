@@ -1,6 +1,6 @@
 # Mi portafolio de habilidades Technolochicas PRO
 
-El presente proyecto es un portafolio desarrollado para poner en practica las habilidades obtenidas dentro del bootcamp de desarrollo frontend de Technolochicas.💖
+El presente proyecto es un portafolio desarrolado para poner en practica las habilidades obtenidas dentro del bootcamp de desarrollo frontend de Technolochicas.💖
 
 Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap y utilizando ademas librerias externas.
 
