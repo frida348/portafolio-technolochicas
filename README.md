@@ -1,10 +1,10 @@
-# Mi portafolio de habilidades Technolochicas PRO
+# Mi portafolio de habilidades Tecnolochicas PRO
 
-El presente proyecto es un portafolio desarrolado para poner en practica las habilidades obtenidas dentro del bootcamp de desarrollo frontend de Technolochicas.💖
+El presente proyecto es un portafolio desarrollado para poner en práctica las habilidades obtenidas dentro del bootcamp de desarrollo frontend de Tecnolochicas.💖
 
-Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap y utilizando ademas librerias externas.
+Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap y utilizando además librerias externas.
 
-La pagina es responsiva e incluye la presentacion de la autora del proyecto.
+La página es responsiva e incluye la presentacion de la autora del proyecto.
 
 [Proyecto desplegado](https://frida-pineda.netlify.app/)
 
@@ -30,4 +30,4 @@ La pagina es responsiva e incluye la presentacion de la autora del proyecto.
 
 --
 
-Desarrollado por Frida Pineda en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/) 🎇
+Desarrollado por Frida Pineda en [TECNOLOCHICAS PRO](https://tecnolochicas.mx/) 🎇
